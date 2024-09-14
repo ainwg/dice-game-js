@@ -4,10 +4,10 @@ A simple web-based dice game where two players roll dice automatically each time
 
 ## Tech Stack
 
-- **Frontend:**
-  - HTML
-  - CSS
-  - JavaScript
+**Frontend:**
+>> HTML
+>> CSS
+>> JavaScript
 
 ## How It Works
 
